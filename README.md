@@ -4,14 +4,14 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Enzo" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="Enzo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Enzo | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />][stackoverflow]
-[<img align="left" alt="Enzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Enzo | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="Enzo | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Enzo | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
-[<img align="left" alt="Enzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+<img align="left" alt="Enzo" height="22px" src="./SocialLogo/Web.png" />
+<img align="left" alt="Enzo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />
+<img align="left" alt="Enzo | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />
+<img align="left" alt="Enzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />
+<img align="left" alt="Enzo | Skype" height="22px" src="./SocialLogo/Skype.png" />
+<img align="left" alt="Enzo | Facebook" height="22px" src="./SocialLogo/Facebook.png" />
+<img align="left" alt="Enzo | Messenger" height="22px" src="./SocialLogo/Messenger.png" />
+<img align="left" alt="Enzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />
 
 <br />
 
