@@ -4,7 +4,9 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<img align="left" alt="Enzo" height="22px" src="./SocialLogo/Web.png" />
+<a href="https://enzogerola.com/">
+  <img align="left" alt="Enzo" height="22px" src="./SocialLogo/Web.png" />
+</a>
 <a href="https://www.linkedin.com/in/enzo-gerola-7b4700139/">
   <img align="left" alt="Enzo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />
 </a>
