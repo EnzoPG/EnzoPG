@@ -4,19 +4,19 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<a href="https://enzogerola.com/">
+<a href="https://enzogerola.com/" target="_blank">
   <img align="left" alt="Enzo" height="22px" src="./SocialLogo/Web.png" />
 </a>
-<a href="https://www.linkedin.com/in/enzo-gerola-7b4700139/">
+<a href="https://www.linkedin.com/in/enzo-gerola-7b4700139/" target="_blank">
   <img align="left" alt="Enzo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />
 </a>
-<a href=" https://wa.me/5512981466323">
+<a href=" https://wa.me/5512981466323" target="_blank">
   <img align="left" alt="Enzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />
 </a>
-<a href="https://www.facebook.com/enzo.gerola">
+<a href="https://www.facebook.com/enzo.gerola" target="_blank">
   <img align="left" alt="Enzo | Facebook" height="22px" src="./SocialLogo/Facebook.png" />
 </a>
-<a href="https://www.instagram.com/enzopege/">
+<a href="https://www.instagram.com/enzopege/" target="_blank">
   <img align="left" alt="Enzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />
 </a>
 
