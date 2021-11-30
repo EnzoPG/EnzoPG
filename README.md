@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/enzo-gerola-7b4700139/" target="_blank">
   <img align="left" alt="Enzo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />
 </a>
-<a href=" https://wa.me/5512981466323" target="_blank">
+<a href="https://wa.me/5512981466323" target="_blank">
   <img align="left" alt="Enzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />
 </a>
 <a href="https://www.facebook.com/enzo.gerola" target="_blank">
