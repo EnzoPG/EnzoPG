@@ -1,4 +1,4 @@
-### Hi, I'm Enzo! [Enzo][website] <img src="https://tenor.com/blOVi.gif" height="32" />
+### Hi, I'm Enzo! [Enzo][website] <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32" />
 
 ## I'm a Developer, Graduated technologist, Tech Lead and a Code Lover!
 
