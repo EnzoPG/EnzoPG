@@ -1,17 +1,22 @@
-### Hi, I'm Enzo! [Enzo][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi, I'm Enzo! [Enzo][website] <img src="https://tenor.com/blOVi.gif" height="32" />
 
 ## I'm a Developer, Graduated technologist, Tech Lead and a Code Lover!
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <img align="left" alt="Enzo" height="22px" src="./SocialLogo/Web.png" />
-<img align="left" alt="Enzo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />
-<img align="left" alt="Enzo | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />
-<img align="left" alt="Enzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />
-<img align="left" alt="Enzo | Skype" height="22px" src="./SocialLogo/Skype.png" />
-<img align="left" alt="Enzo | Facebook" height="22px" src="./SocialLogo/Facebook.png" />
-<img align="left" alt="Enzo | Messenger" height="22px" src="./SocialLogo/Messenger.png" />
-<img align="left" alt="Enzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />
+<a href="https://www.linkedin.com/in/enzo-gerola-7b4700139/">
+  <img align="left" alt="Enzo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />
+</a>
+<a href=" https://wa.me/5512981466323">
+  <img align="left" alt="Enzo | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />
+</a>
+<a href="https://www.facebook.com/enzo.gerola">
+  <img align="left" alt="Enzo | Facebook" height="22px" src="./SocialLogo/Facebook.png" />
+</a>
+<a href="https://www.instagram.com/enzopege/">
+  <img align="left" alt="Enzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />
+</a>
 
 <br />
 
