@@ -1,6 +1,6 @@
 ### Hi, I'm [Enzo][website]! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32" />
 
-## I'm a Developer, Graduated technologist, Tech Lead and a Code Lover!
+## I'm a Full Stack Developer, Graduated technologist, Ex-Tech Lead and a Code Lover!
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
