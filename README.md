@@ -1,4 +1,4 @@
-### Hi, I'm [Enzo][website]! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32" />
+### Hi, my name is [Enzo][website]! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32" />
 
 ## I'm a Full Stack Developer, Graduated technologist, Ex-Tech Lead and a Code Lover!
 
