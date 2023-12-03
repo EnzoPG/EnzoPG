@@ -1,6 +1,6 @@
 ### Hi, my name is [Enzo][website]! <img src="./SocialLogo/oie_3173848htgYM1rg.gif" height="32" />
 
-## I'm a Full Stack Developer, Graduated technologist, Ex-Tech Lead and a Code Lover!
+## I'm a Full Stack Developer, Graduated technologist, Experienced Tech Lead and a Code Lover!
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
