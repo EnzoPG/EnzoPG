@@ -1,8 +1,8 @@
-### Hi, my name is [Enzo][website]! <img src="./SocialLogo/oie_3173848htgYM1rg.gif" height="32" />
+### Hi, my name is [Enzo][website]!
 
 ## I'm a Full Stack Developer, Graduated technologist, Experienced Tech Lead and a Code Lover!
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### Connect with me:
 
 <a href="https://enzogerola.com/" target="_blank">
   <img align="left" alt="Enzo" height="22px" src="./SocialLogo/Web.png" />
