@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/enzo.gerola" target="_blank">
   <img align="left" alt="Enzo | Facebook" height="22px" src="./SocialLogo/Facebook.png" />
 </a>
-<a href="https://www.instagram.com/enzopege/" target="_blank">
+<a href="https://www.instagram.com/enzo.gerola/" target="_blank">
   <img align="left" alt="Enzo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />
 </a>
 
